@@ -1,0 +1,12 @@
+@import 'home';
+@import '404';
+@import 'project';
+@import 'about';
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: sans-serif;
+}
